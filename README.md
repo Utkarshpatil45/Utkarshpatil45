@@ -58,10 +58,11 @@
 
 <div align="center">
 
-### 📊 Sales Dashboard (Power BI)
-📌 Interactive dashboard for business insights  
-📌 KPI tracking & trend analysis  
-
+### 📊 Sales Data Analysis Dashboard
+📌 End-to-end sales analytics using Excel, MySQL, Python & Streamlit  
+📌 KPI tracking, sales trends, and business insights  
+📌 Interactive dashboard with product-wise and city-wise analysis 
+🔗 Live Demo: https://sales-data-analysis-grnf4h76harbnysdu6zrne.streamlit.app/
 ---
 
 ### 🛒 E-Commerce Data Analysis (Python)
