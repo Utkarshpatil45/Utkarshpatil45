@@ -81,11 +81,18 @@
 
 ---
 
-## 📈 Data Visualization Sample
+<!--## 📈 Data Visualization Sample
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/chart.png" width="500"/>
-</p>
+<!-- <p align="center"> -->
+  <!-- <img src="C:\Users\utkarsh patil\OneDrive\Pictures\Screenshots\dashboard.png"/> -->
+<!-- </p> -->
+
+<!--## 📈 Dashboard Preview
+
+<!-- <p align="center"> -->
+  <!-- <img src="C:\Users\utkarsh patil\OneDrive\Pictures\Screenshots\dashboard.png" height="400" width="800"/> -->
+<!-- </p> -->
+
 
 ---
 
