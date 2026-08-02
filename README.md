@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi, I'm Utkarsh Patil</h1>
 <h3 align="center">📊 Aspiring Data Analyst | Python | SQL | Power BI | Turning Data into Decisions</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 🌟 About Me
@@ -37,22 +33,6 @@
 
 ---
 
-<!-- 📊 GitHub Analytics
-
-<!-- <div align="center"> -->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=utkarshpatil&show_icons=true&theme=tokyonight" /> -->
-
-<!-- <br><br> -->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshpatil&layout=compact&theme=tokyonight" /> -->
-
-<!-- <br><br> -->
-
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshpatil&theme=tokyonight" /> -->
-<!-- </div> -->
-
-<!-- ---  -->
 
 ## 📂 Featured Data Projects
 
@@ -79,22 +59,7 @@
 
 </div>
 
----
 
-<!--## 📈 Data Visualization Sample
-
-<!-- <p align="center"> -->
-  <!-- <img src="C:\Users\utkarsh patil\OneDrive\Pictures\Screenshots\dashboard.png"/> -->
-<!-- </p> -->
-
-<!--## 📈 Dashboard Preview
-
-<!-- <p align="center"> -->
-  <!-- <img src="C:\Users\utkarsh patil\OneDrive\Pictures\Screenshots\dashboard.png" height="400" width="800"/> -->
-<!-- </p> -->
-
-
----
 
 ## 🌐 Connect With Me
 
