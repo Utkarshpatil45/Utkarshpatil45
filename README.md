@@ -61,7 +61,7 @@
 📌 Interactive Power BI dashboard (Coming Soon 🚀)
 
 ---
----
+
 
 ### 📈 SQL Data Analysis Project
 📌 Complex queries (JOINs, GROUP BY, Window Functions)  
