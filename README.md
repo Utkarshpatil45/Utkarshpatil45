@@ -41,16 +41,26 @@
 ### 📊 Sales Data Analysis Dashboard
 
 📌 End-to-end sales analytics using Excel, MySQL, Python & Streamlit  
+
 📌 KPI tracking, sales trends, and business insights  
+
 📌 Interactive dashboard with product-wise and city-wise analysis  
+
 
 🔗 [Live Demo](https://sales-data-analysis-grnf4h76harbnysdu6zrne.streamlit.app/)
 ---
 
-### 🛒 E-Commerce Data Analysis (Python)
-📌 Data cleaning & preprocessing  
-📌 Customer behavior insights using Pandas  
+### 📊 Superstore Sales Data Analysis
 
+📌 End-to-end sales analysis using Python, Pandas, Matplotlib, and Jupyter Notebook
+
+📌 Analyzed sales trends, customer behavior, product performance, and profitability
+
+📌 Generated business insights with category-wise, region-wise, and monthly analysis
+
+📌 Interactive Power BI dashboard (Coming Soon 🚀)
+
+---
 ---
 
 ### 📈 SQL Data Analysis Project
