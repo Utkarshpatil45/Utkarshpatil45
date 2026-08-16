@@ -60,7 +60,8 @@
 📌 Generated business insights with category-wise, region-wise, and monthly analysis
 
 📌 Interactive Power BI dashboard (Coming Soon 🚀)
-<a href="[PASTE_YOUR_REPOSITORY_LINK_HERE](https://github.com/Utkarshpatil45/superstore-sales-analysis)">
+
+<a href="https://github.com/Utkarshpatil45/superstore-sales-analysis">
   <img src="https://img.shields.io/badge/📂%20View%20Repository-GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 ---
