@@ -49,7 +49,7 @@
 📌 Interactive Power BI dashboard (Coming Soon 🚀)
 
 <a href="https://github.com/Utkarshpatil45/superstore-sales-analysis">
-  <img src="https://img.shields.io/badge/📂%20View%20Repository-GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/🚀%20Explore%20Analysis-059669?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 ---
@@ -66,8 +66,7 @@
 📌 Generated business insights to understand sales performance and support data-driven decision-making
 
 <a href="https://github.com/Utkarshpatil45/E-Commerce-Sales-Analysis">
-  <img src="https://img.shields.io/badge/📂%20View%20Repository-GitHub-181717?style=for-the-badge&logo=github" />
-</a>
+ <img src="https://img.shields.io/badge/🚀%20Explore%20Analysis-059669?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
