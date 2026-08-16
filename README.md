@@ -64,12 +64,23 @@
 <a href="https://github.com/Utkarshpatil45/superstore-sales-analysis">
   <img src="https://img.shields.io/badge/📂%20View%20Repository-GitHub-181717?style=for-the-badge&logo=github" />
 </a>
+
 ---
 
 
-### 📈 SQL Data Analysis Project
-📌 Complex queries (JOINs, GROUP BY, Window Functions)  
-📌 Business insights extraction  
+###### 📊 E-Commerce Sales Data Analysis
+
+📌 End-to-end e-commerce sales analysis using **Python, Pandas, NumPy & Jupyter Notebook**
+
+📌 Analyzed product performance, category-wise sales, city-wise sales, quantity & pricing trends
+
+📌 Performed data cleaning, feature engineering, sorting, statistical analysis & exploratory data analysis
+
+📌 Generated business insights to understand sales performance and support data-driven decision-making
+
+<a href="https://github.com/Utkarshpatil45/E-Commerce-Sales-Analysis">
+  <img src="https://img.shields.io/badge/📂%20View%20Repository-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
