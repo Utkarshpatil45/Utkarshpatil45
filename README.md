@@ -69,6 +69,24 @@
 <a href="https://github.com/Utkarshpatil45/E-Commerce-Sales-Analysis">
  <img src="https://img.shields.io/badge/🚀%20Explore%20Analysis-059669?style=for-the-badge&logo=github&logoColor=white" />
 
+
+ ---
+
+### 🤖 Advertisement Click Prediction
+
+📌 Developed a binary-classification model using **Logistic Regression and Scikit-learn**
+
+📌 Performed data cleaning, exploratory data analysis, feature scaling, correlation analysis and sigmoid-function visualization
+
+📌 Analyzed how age, area income, daily internet usage and time spent on the website influence advertisement clicks
+
+📌 Achieved **98.00% Accuracy, 98.98% Precision, 97.00% Recall and 97.98% F1-score**
+
+<a href="https://github.com/Utkarshpatil45/Logistic_Regression_Project">
+  <img src="https://img.shields.io/badge/🚀%20Explore%20Project-059669?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+
 </div>
 
 
