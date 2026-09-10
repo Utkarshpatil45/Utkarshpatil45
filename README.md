@@ -34,16 +34,24 @@
 
 ---
 
-## 🚀 Featured Projects
+## 📊 Data Analytics Projects
 
 | Project | Highlights | Tools | Explore |
 |---------|------------|-------|:-------:|
 | 📊 Superstore Sales Analysis | Sales trends, regional performance & profitability | Python, Pandas, Matplotlib | [![Explore](https://img.shields.io/badge/Explore-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Utkarshpatil45/superstore-sales-analysis) |
 | 🛒 E-Commerce Sales Analysis | Product performance, sales patterns & pricing analysis | Python, Pandas, NumPy | [![Explore](https://img.shields.io/badge/Explore-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Utkarshpatil45/E-Commerce-Sales-Analysis) |
-| 🤖 Advertisement Click Prediction | Logistic regression model · 98% accuracy | Python, Scikit-learn | [![Explore](https://img.shields.io/badge/Explore-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Utkarshpatil45/Logistic_Regression_Project) |
 | 📈 Retail Sales Dashboard | Interactive dashboard analyzing 998 transactions | Excel, PivotTables, Slicers | [![Explore](https://img.shields.io/badge/Explore-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Utkarshpatil45/excel-retail-sales-dashboard.) |
+| 🤖 Advertisement Click Prediction | Logistic regression model · 98% accuracy | Python, Scikit-learn | [![Explore](https://img.shields.io/badge/Explore-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Utkarshpatil45/Logistic_Regression_Project) |
+
+---
+
+## 💻 Other Projects
+
+| Project | Highlights | Tools | Explore |
+|---------|------------|-------|:-------:|
 
 
+---
 
 
 ## 🌐 Connect With Me
