@@ -53,37 +53,32 @@
 
 ---
 
+## 🎯 Current Focus
 
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/your-link">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://instagram.com/your-id">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
+| Area | What I'm Working On |
+|------|---------------------|
+| 🗄️ SQL | Strengthening query-writing and analytical skills |
+| 📊 Power BI | Building interactive dashboards |
+| 🐍 Python | Exploring data and communicating insights |
+| 🚀 Projects | Applying analytics to real-world business questions |
 
 ---
 
-## 💡 Quote
+## 🤝 Let's Connect
 
 <p align="center">
-  <i>"Without data, you're just another person with an opinion."</i>
+  Interested in data analytics, dashboards, or collaborating on a project? Let's connect!
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/utkarsh-patil-414912321/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:utkarshpatil2525@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+  &nbsp;
+  <a href="https://www.instagram.com/utkarsh0.09/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Connect on Instagram" /></a>
+</p>
 ---
 
-## 🚀 Current Focus
-
-```text
-✔ Data Analysis
-✔ SQL Mastery
-✔ Power BI Dashboards
-✔ Real-world Projects
+<p align="center">
+  <i>📊 Exploring data. Finding patterns. Sharing insights.</i>
+</p>
