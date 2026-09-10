@@ -86,6 +86,27 @@
   <img src="https://img.shields.io/badge/🚀%20Explore%20Project-059669?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+---
+
+### 📊 Retail Sales Dashboard — Excel
+
+📌 Interactive retail sales dashboard using **Microsoft Excel, PivotTables, PivotCharts & Slicers**
+
+📌 Analyzed **998 transactions from 2023**, covering monthly trends, category performance and customer purchasing patterns
+
+📌 Performed data cleaning, transaction validation and feature engineering with **Month Start & Age Group** columns
+
+📌 Built KPI cards for **Revenue, Transactions, Units Sold & Average Transaction Value**
+
+📌 Added **Product Category & Gender filters**, plus state-wise analysis using clearly labeled simulated locations
+
+📌 Documented business findings, recommendations and data limitations
+
+<a href="https://github.com/Utkarshpatil45/excel-retail-sales-dashboard.">
+  <img src="https://img.shields.io/badge/Explore%20Dashboard-217346?style=for-the-badge&logo=github&logoColor=white" alt="Explore Retail Sales Dashboard" />
+</a>
+
+
 
 </div>
 
