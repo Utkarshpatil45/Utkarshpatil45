@@ -47,8 +47,7 @@
 
 ## 💻 Other Projects
 
-🚧 More projects in progress — coming soon!
-
+🌱 Exploring new tools and ideas — more projects on the way!
 
 ---
 
