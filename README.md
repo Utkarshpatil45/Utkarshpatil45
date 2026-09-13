@@ -47,8 +47,7 @@
 
 ## 💻 Other Projects
 
-| Project | Highlights | Tools | Explore |
-|---------|------------|-------|:-------:|
+🚧 More projects in progress — coming soon!
 
 
 ---
